@@ -12,7 +12,7 @@ const HeroSection = ()=>{
     return(
         <>
             <div className="bg-stone-50 anim">
-                <div className="w-4/5 mx-auto h-[100vh] flex flex-col-reverse  items-center justify-between md:flex-row ">
+                <div className="w-4/5 mt-20 md:mt-0 mx-auto h-[100vh] flex flex-col-reverse  items-center justify-between md:flex-row ">
                     <div className="w-full md:w-3/5 py-7 ">
                         <div className="flex items-center space-x-2">
                             <FontAwesomeIcon icon={faStar}  className="text-orange-400"/>
